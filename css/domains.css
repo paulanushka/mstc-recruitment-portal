@@ -1,0 +1,132 @@
+
+body{
+    background: #101C29;
+}
+.stclogo{
+    position: absolute;
+    width: 205px;
+    height: 56px;
+    left: 57px;
+    top: 45px;
+}
+#stc{
+    height: 100px;
+}
+h3{
+    position: absolute;
+width: 304px;
+height: 92px;
+left: 568px;
+top: 119px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 87px;
+text-align: center;
+
+color: #DDDDDD;
+}
+#tech{
+    position: absolute;
+width: 326px;
+height: 392px;
+left: 179px;
+top: 254px;
+
+background: #7DADC6;
+border-radius: 26px;
+}
+#imgtech{
+    position: relative;
+    width: 211px;
+    height: 211px;
+    left: 36px;
+    top: 45px;
+}
+#Technical{
+    position: relative;
+width: 230px;
+height: 47px;
+left: 27px;
+top: 80px;
+
+background: #013867;
+border-radius: 14px;
+}
+#manag{
+    position: absolute;
+width: 326px;
+height: 392px;
+left: 607px;
+top: 254px;
+
+background: #C67D7D;
+border-radius: 26px;
+}
+#imgmanag{
+    position: relative;
+    width: 211px;
+    height: 211px;
+    left: 36px;
+    top: 45px;
+}
+#Management{
+    position: relative;
+width: 230px;
+height: 47px;
+left: 27px;
+top: 80px;
+
+background: #013867;
+border-radius: 14px;
+}
+#desi{
+    position: absolute;
+width: 326px;
+height: 392px;
+left: 1035px;
+top: 254px;
+
+background: #94C67D;
+border-radius: 26px;
+}
+#imgdesi{
+    position: relative;
+    width: 211px;
+    height: 211px;
+    left: 36px;
+    top: 45px;
+}
+#Design{
+    position: relative;
+width: 230px;
+height: 47px;
+left: 27px;
+top: 80px;
+
+background: #013867;
+border-radius: 14px;
+}
+#select{
+    position: absolute;
+width: 263px;
+height: 67px;
+left: 639px;
+top: 670px;
+
+background: #5F39CB;
+box-shadow: 4px 7px 9px rgba(0, 0, 0, 0.25);
+border-radius: 63px;
+}
+/* .select{
+    padding-bottom: 60%;
+} */
+a{
+    color: white;
+}
+
+#something{
+    margin-left: 30px;
+}

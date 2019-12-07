@@ -1,0 +1,48 @@
+body{
+    background: #101C29;
+}
+.stclogo{
+    position: absolute;
+    width: 286px;
+    height: 105px;
+    left: 577px;
+    top: 35px;
+}
+#pa{
+    position: absolute;
+    width: 529px;
+    height: 101px;
+    left: 126px;
+    top: 290px;
+    font-family: SF Compact Display;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 60px;
+    color: #DDDDDD;
+
+}
+#des{
+    position: absolute;
+    width: 585px;
+    height: 581px;
+    left: 903px;
+    top: 120px;
+
+}
+#join{
+    position: absolute;
+    width: 263px;
+    height: 67px;
+    left: 589px;
+    top: 650px;
+    background: #5F39CB;
+    box-shadow: 4px 7px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 63px;
+}
+.join{
+    padding-bottom: 40%;
+}
+a{
+    color: white;
+}

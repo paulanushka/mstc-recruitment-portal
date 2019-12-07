@@ -1,0 +1,70 @@
+body{
+    background: #101C29;
+}
+.stclogo{
+    position: absolute;
+    width: 185px;
+    height: 46px;
+    left: 37px;
+    top: 35px;
+}
+#stc{
+   
+        height: 100px;
+    
+}
+.Q{
+    position: absolute;
+width: 82px;
+height: 66px;
+left: 64px;
+top: 181px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 65px;
+line-height: 89px;
+display: flex;
+align-items: center;
+
+color: #CCC9DC;
+
+}
+.para{
+    position: absolute;
+width: 1209px;
+height: 36px;
+left: 146px;
+top: 231px;
+
+font-family: SF Compact Display;
+font-style: normal;
+font-weight: normal;
+font-size: 52px;
+line-height: 62px;
+display: flex;
+align-items: center;
+color: #2EC4B6;
+
+}
+#text{
+    position: relative;
+    width: 1250px;
+    height: 257px;
+    left: 93px;
+    top: 326px;
+    background-color: white;
+    border-radius: 37px;
+    font-size: 20px;
+}
+#next{
+    position: absolute;
+width: 237px;
+height: 69px;
+left: 1088px;
+top: 647px;
+
+background: #2EC4B6;
+border-radius: 40px;
+}
