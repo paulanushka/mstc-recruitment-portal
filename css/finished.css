@@ -1,0 +1,79 @@
+body{
+    background: #101C29;
+}
+.stclogo{
+    position: absolute;
+    width: 185px;
+    height: 46px;
+    left: 37px;
+    top: 35px;
+}
+h3{
+    position: absolute;
+width: 304px;
+height: 92px;
+left: 568px;
+top: 160px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 87px;
+text-align: center;
+
+color: #DDDDDD;
+}
+
+.para{
+    position: absolute;
+width: 1209px;
+height: 36px;
+left: 146px;
+top: 360px;
+
+font-family: SF Compact Display;
+font-style: normal;
+font-weight: normal;
+font-size: 52px;
+line-height: 62px;
+display: flex;
+align-items: center;
+color: #2EC4B6;
+
+}
+#text{
+    position: relative;
+    width: 1250px;
+    height: 297px;
+    left: 93px;
+    top: 326px;
+    background-color: white;
+    border-radius: 37px;
+    font-size: 20px;
+}
+#submit{
+    position: absolute;
+width: 237px;
+height: 69px;
+left: 608px;
+top: 527px;
+
+background: #2EC4B6;
+border-radius: 40px;
+}
+h5{
+    position: absolute;
+
+left: 698px;
+top: 627px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 87px;
+text-align: center;
+
+color: #DDDDDD;
+}

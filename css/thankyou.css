@@ -1,0 +1,52 @@
+body{
+    background: #101C29;
+}
+.stclogo{
+     /*position: absolute;*/
+     width: 205px; 
+     height: 76px; 
+    margin-left: 57px;
+    margin-top: 45px;
+}
+h3{
+    /* position: absolute;
+width: 36px;
+height: 36px;*/
+left: 568px;
+top: 150px; 
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 50px;
+text-align: center;
+
+color: #DDDDDD;
+}
+#submitted{
+    /* position: relative; */
+    width: 211px;
+    height: 211px;
+    left: 450px;
+    top: 400px;
+}
+h5{
+    /* position: absolute; */
+
+left: 698px;
+top: 627px;
+
+font-family: Noto Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 87px;
+text-align: center;
+
+color: #DDDDDD;
+}
+
+#tick-div{
+    text-align: center!important;
+}
